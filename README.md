@@ -2,9 +2,11 @@
 
 Stranger Things-inspired personal portfolio built with HTML, CSS, and vanilla JavaScript.
 
+<<<<<<< HEAD
 ## Live Website
+=======
+[Live demo](https://ayushsingh22.me/)
 
-- Production: https://ayushsingh22.me
 
 ## Features
 
